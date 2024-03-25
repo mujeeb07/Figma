@@ -1,0 +1,42 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding-left: 40px;
+    overflow: hidden;
+}
+
+.left-logo {
+    width: 3%;
+    height: 3%px;
+    overflow: hidden;
+}
+
+.navbar div {
+    margin-left: 40px;
+    font-size: 16px;
+    /* overflow: hidden; */
+}
+
+.navbar button {
+    background-color: #5551FF;
+    height: 70xp;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 16px 30px;
+    border-radius: 10px;
+    margin-top: -27px;
+    margin-right: -100px;
+    position: fixed;
+    /* overflow: hidden; */
+}
+
+.navbar {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-left: 150px;
+    /* overflow: hidden; */
+}

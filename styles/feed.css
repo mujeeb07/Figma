@@ -1,0 +1,51 @@
+.large-text {
+    display: flex;
+    flex-direction: column;
+    margin-top: 140px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-weight: bolder;
+    height: 200px;
+}
+
+.h1 {
+    font-size: 70px;
+    text-align: justify;
+    text-align: center;
+    word-spacing: 1px;
+    padding-top: 6.5px;
+}
+
+.text {
+    text-align: center;
+    margin-top: 17px;
+    font-size: 22px;
+    line-height: 33px;
+    word-spacing: 4px;
+}
+
+.image-text-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin-top: 110px;
+    padding-left: 100px;
+    justify-content: center;
+    margin-bottom: -60px;
+}
+
+.para-heading {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.para {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.section-right {
+    margin-right: 190px;
+}
